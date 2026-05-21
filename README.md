@@ -44,7 +44,7 @@
 * Infra → routing
 
 ✅ DIP → abstraction  
-✅ کاهش وابستگی
+✅ Reduce dependency
 
 ***
 
@@ -52,7 +52,7 @@
 
 isolate features  
 
-✅ scale تیم ↑
+✅ team scale ↑
 
 ***
 
